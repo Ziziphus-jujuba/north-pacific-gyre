@@ -4,4 +4,4 @@ fname=$1
 echo"working with file: ${fname}"
 echo "Welcome scrt"
 # compute min/max/range of values in a file
-
+min=jiberish

@@ -5,3 +5,4 @@ echo"working with file: ${fname}"
 echo "Welcome scrt"
 # compute min/max/range of values in a file
 
+max=$( cat ${fname} | sort | tail -1)
